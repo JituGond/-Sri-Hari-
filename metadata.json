@@ -1,0 +1,6 @@
+{
+  "name": "Hanuman AI",
+  "description": "Offline AI video editor and bilingual Hindi-English script generator for Android 10+ and web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
